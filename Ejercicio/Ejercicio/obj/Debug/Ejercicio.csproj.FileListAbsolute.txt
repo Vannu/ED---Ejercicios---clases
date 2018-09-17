@@ -1,0 +1,7 @@
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\AcerAspire5920\source\repos\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csprojAssemblyReference.cache
